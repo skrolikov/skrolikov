@@ -1,96 +1,46 @@
-# 👋 Серёжа (aka skrolikov)
 
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?&logo=typescript&logoColor=white)
-![npm](https://img.shields.io/npm/v/@vira-ui/ui)
-![npm downloads](https://img.shields.io/npm/dw/@vira-ui/ui)
+# Hey, I'm Sergey 👋
 
-Инженер по призванию, айтишник по судьбе.  
-Пишу код, потому что:
-- цифры врут  
-- события — нет  
-- а `UPDATE balance = balance + 1` должен быть запрещён Женевской конвенцией.
+**Software Developer · Infrastructure Engineer · Creator of VIRSTAK**
 
----
+> Beyond code. Building ecosystems.
 
-## 🏴‍☠️ Флагман сейчас
-**Vira Platform** — монорепа с живыми пакетами и npm-релизами.  
-Не пет-проект «для души», а штука, которой реально пользуются.
+I'm passionate about building scalable systems, designing software
+architecture and turning complex problems into simple experiences.
 
-📦 npm:
-- `@vira-ui/ui` — UI-библиотека и дизайн-токены
-- `@vira-ui/core` — внутренняя логика
-- `@vira-ui/babel-plugin-vira` — JSX без боли и магии
+- 🛠️ IT Operations Engineer at **School 21**
+- 🚀 Founder & Developer of **[VIRSTAK](https://virstak.ru)**
+- 🧠 Exploring distributed systems and software architecture
+- ⚡ Building things that actually make a difference
 
-🔗 GitHub:
-- https://github.com/skrolikov/Vira-Platform/tree/main/packages
+## ⚙️ Tech Stack
 
-> Если библиотека не используется — это не open source, а дневник.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,ts,react,vite,postgres,redis,kafka&theme=dark" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,ansible,git,github&theme=dark" />
+</p>
 
----
+## 🚀 Currently Building
 
-## 🧠 Чем занят сейчас
-- Собираю **Vira** — экосистему, где деньги, товары и пользователи это **события + состояния**, а не просто цифры в БД
-- Пилю **vira-ui** — дизайн-систему без Tailwind, но с головой
-- Привожу архитектуру в чувство, пока она не начала мстить
+<a href="https://virstak.ru">
+  <img src="https://img.shields.io/badge/VIRSTAK-Business_Ecosystem-6366F1?style=for-the-badge" />
+</a>
 
----
+A modular ecosystem for business management, automation,
+communication and infrastructure.
 
-## ⚙️ Как я думаю как разработчик
-- Источник истины один. Если их два — ты уже потерялся
-- Архитектура важнее фреймворка
-- Если без README нельзя понять как пользоваться — это баг
-- Простота > умничанье
-- Код должен пережить автора. Хотя бы пару лет
+**One ecosystem. Endless possibilities.**
 
 ---
 
-## 🧰 Стек
-**Backend**
-- Go, PostgreSQL, Redis, Kafka
+<p align="center">
+  <img src="https://img.shields.io/badge/Architecture-First-18181B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Complexity-Keep_it_simple-18181B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Always_building-22C55E?style=flat-square" />
+</p>
 
-**Frontend**
-- React, TypeScript, Vite
-
-**Infra**
-- Docker, Nginx
-
-**Отношение к жизни**
-- Люблю: чистую архитектуру и понятные системы
-- Не люблю: магию без документации и «потом поправим»
-
----
-
-## 🚀 Проекты
-- **Vira SMP** — приватная Service Management Platform  
-  Событийная платформа для сервисного бизнеса.  
-  Не CRM. Не ERP.  
-  Деньги, заказы и склад — это события + состояния, а не цифры в таблицах.  
-  Проект приватный, используется как продукт и архитектурный полигон.
-- **Vira Platform** — экосистема сервисов и UI (Go + React)
-- **vira-ui** — JSX-driven дизайн-система, живёт в npm
-- **vira-id** — сервис авторизации без иллюзий
-- иногда пишу тексты и код одновременно — оба ломают мозг
-
----
-
-## 🧪 Open Source
-- PR принимаю, если они:
-  - не ломают API
-  - не добавляют магии ради магии
-  - и автор понимает, что делает
-
-- Issues > личные сообщения  
-  Там хотя бы контекст есть.
-
----
-
-## 📬 Связь
-- GitHub — ты уже здесь 🙂
-- npm — пакеты выше
-- Если хочешь поработать вместе — смотри код, он честнее слов
-- Telegram - t.me/skrolikov
-
----
-
-_Если что-то кажется слишком простым — значит я хорошо поработал._
+<p align="center">
+  <i>Think bigger. Build smarter. Never stop engineering.</i>
+</p>
